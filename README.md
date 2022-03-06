@@ -1,2 +1,3 @@
 # Bisfat_Hakodesh
-An online book store 
+===== this project is still being built====
+An online book store the back-end is written with Node.js /w TypeScript implementing OOP priciples
